@@ -25,7 +25,7 @@ Legenda:
 | --- | --- |:---:|
 | AODH| Telemetry Alarming | :x: |
 | GNOCCHI | Times Series Database and Resource Indexing | :x: |
-| MONASCA | Monitoring Service | :x: |
+| [MONASCA](https://github.com/raquel/openstack-notes/blob/master/Monasca.md) | Monitoring Service | :x: |
 | MANILA | Shared Filesystem | :heavy_check_mark: |
 | IRONIC | Bare-metal Provisioning | :heavy_check_mark: |
 | BARBICAN | Key Management Service | :x: |
