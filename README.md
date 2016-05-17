@@ -1,9 +1,12 @@
 # OpenStack-Notes
-Notas de Estudo do OpenStack
+
+Legenda:
+- API* = API Documentada
+-> Colocar Link para a documentação da API
 
 ### CONFIRMADOS
 
-| Módulo | Descrição | API* |
+| MÓDULO | DESCRIÇÃO SIMPLES | API* |
 | --- | --- |:---:|
 | NOVA | Compute | :heavy_check_mark: |
 | NEUTRON | Networking | :heavy_check_mark: |
@@ -18,7 +21,7 @@ Notas de Estudo do OpenStack
 
 ### POSSÍVEIS
 
-| Módulo | Descrição | API* |
+| MÓDULO | DESCRIÇÃO SIMPLES | API* |
 | --- | --- |:---:|
 | AODH| Telemetry Alarming | :x: |
 | GNOCCHI | Times Series Database and Resource Indexing | :x: |
@@ -31,7 +34,7 @@ Notas de Estudo do OpenStack
 | CONGRESS | Governance Service | :x: |
 
 ### INTERESSANTES
-| Módulo | Descrição | API* |
+| MÓDULO | DESCRIÇÃO SIMPLES | API* |
 | --- | --- |:---:|
 | TROVE | Database as a Service | :heavy_check_mark: |
 | CLOUDKITTY | Rating and Billing Service | :x: |
@@ -47,5 +50,3 @@ Notas de Estudo do OpenStack
 | MISTRAL | Workflow Service | :x: |
 | SENLIN | Clustering Service | :heavy_check_mark: |
 | SOLUM | Application Lifecycle Management Service | :x: |
-
-API* = API Documentada
