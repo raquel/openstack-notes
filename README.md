@@ -1,5 +1,7 @@
 # OpenStack-Notes
 
+[Releases do OpenStack](https://github.com/raquel/openstack-notes/blob/master/releases.md)
+
 Legenda:
 - API* = API Documentada
 -> Colocar Link para a documentação da API
