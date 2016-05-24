@@ -34,6 +34,7 @@ Legenda:
 | MAGNUM | Container as a Service | :x: |
 | DESIGNATE | DNS as a Service | :x: |
 | CONGRESS | Governance Service | :x: |
+| TACKER | NFV Orchestration | :x: |
 
 ### INTERESSANTES
 | MÓDULO | DESCRIÇÃO SIMPLES | API* |
