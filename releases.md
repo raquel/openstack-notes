@@ -2,23 +2,23 @@
 
 ## Releases Dates
 
-| Series | Status | Initial Release Date | EOL Date |
-| --- | --- | --- | --- |
-| Ocata | Future | TBD | TBD |
-| Newton | Under Development | 2016-10-06 (planned) | TBD |
-| Mitaka | Current stable release, security-supported | 	2016-04-07 | TBD |
-| Liberty | Security-supported | 2016-10-15 | 2016-11-17 |
-| Kilo | Security-supported | 2016-04-30 | 2016-05-02 |
-| Juno | EOL | 2016-10-16 | 2015-12-07 |
-| Icehouse | EOL | 2014-04-17 | 2015-07-02 |
-| Havana | EOL | 2013-10-17 | 2014-09-30 |
-| Grizzly | EOL | 2013-04-04 | 2014-03-29 |
-| Folsom | EOL | 2012-09-27 | 2013-11-19 |
-| Essex | EOL | 2012-04-05 | 2013-05-06 |
-| Diablo | EOL | 2011-09-22 | 2013-05-06 |
-| Cactus | Deprecated | 2011-04-15 | |
-| Bexar | Deprecated | 2011-02-03 | |
-| Austin | Deprecated | 2010-10-21 | |
+| Version | Series | Status | Initial Release Date | EOL Date | Quote |
+| --- | --- | --- | --- | --- | --- |
+| 2017.1 | Ocata | Future | TBD | TBD | Ocata (Barcelona, Spain): Ocata is a beach about 20 minutes north of Barcelona by train |
+| 2016.2 | Newton | Under Development | 2016-10-06 (planned) | TBD | Newton (Austin, Texas): The "Newton House", located at 1013 E. Ninth St., Austin, TX, is listed on the National Register of Historic Places |
+| 2016.1 | Mitaka | Current stable release, security-supported | 	2016-04-07 | TBD | Mitaka (Tokyo, Japan): Mitaka is a city located in Tokyo Metropolis, Japan |
+| 2015.2 | Liberty | Security-supported | 2016-10-15 | 2016-11-17 | Liberty (Vancouver, British Columbia): Liberty is a village in the Canadian province of Saskatchewan |
+| 2015.1 | Kilo | Security-supported | 2016-04-30 | 2016-05-02 | Kilo (Paris, France): Paris (Sèvres, actually, but that's close enough) is home to the Kilogram, the only remaining SI unit tied to an artifact |
+| 2014.2 | Juno | EOL | 2016-10-16 | 2015-12-07 | Juno (Atlanta, Georgia): Juno is a locality in Georgia |
+| 2014.1 | Icehouse | EOL | 2014-04-17 | 2015-07-02 | Icehouse (Hong Kong): Ice House is a street in Hong Kong |
+| 2013.2 | Havana | EOL | 2013-10-17 | 2014-09-30 | Havana (Portland, Oregon): Havana is an unincorporated community in Oregon |
+| 2013.1 | Grizzly | EOL | 2013-04-04 | 2014-03-29 | Grizzly (San Diego, California): Grizzly is an element of the state flag of California |
+| 2012.2 | Folsom | EOL | 2012-09-27 | 2013-11-19 | Folsom (San Francisco, California): Folsom is a city near San Francisco |
+| 2012.1 | Essex | EOL | 2012-04-05 | 2013-05-06 | Essex (Boston, Massachusetts): Essex is a city near Boston |
+| 2011.3 | Diablo | EOL | 2011-09-22 | 2013-05-06 | Diablo (Santa Clara, California): Diablo is a city in the bay area near Santa Clara |
+| 2011.2 | Cactus | Deprecated | 2011-04-15 | | Cactus: Cactus is a city in Texas |
+| 2011.1 | Bexar | Deprecated | 2011-02-03 | | Bexar (San Antonio, Texas): San Antonio is located in Bexar county |
+| | Austin | Deprecated | 2010-10-21 | | Austin (Austin, Texas): The first design summit took place in Austin, TX |
 
 
 ## Releases Modules
