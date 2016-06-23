@@ -8,48 +8,39 @@ Legenda:
 
 ### CONFIRMADOS
 
-| MÓDULO | DESCRIÇÃO SIMPLES | API* |
-| --- | --- |:---:|
-| NOVA | Compute | :heavy_check_mark: |
-| NEUTRON | Networking | :heavy_check_mark: |
-| SWIFT | Object Storage | :heavy_check_mark: |
-| CINDER | Block Storage | :heavy_check_mark: |
-| KEYSTONE | Identity | :heavy_check_mark: |
-| GLANCE | Image Service | :heavy_check_mark: |
-| HORIZON | Dashboard | :x: |
-| CEILOMETER | Telemetry | :heavy_check_mark: |
-| HEAT | Orchestration | :heavy_check_mark: |
-| MURANO | Application Catalog | :x: |
-
-### POSSÍVEIS
-
-| MÓDULO | DESCRIÇÃO SIMPLES | API* |
-| --- | --- |:---:|
-| AODH| Telemetry Alarming | :x: |
-| GNOCCHI | Times Series Database and Resource Indexing | :x: |
-| [MONASCA](https://github.com/raquel/openstack-notes/blob/master/Monasca.md) | Monitoring Service | :x: |
-| MANILA | Shared Filesystem | :heavy_check_mark: |
-| IRONIC | Bare-metal Provisioning | :heavy_check_mark: |
-| BARBICAN | Key Management Service | :x: |
-| MAGNUM | Container as a Service | :x: |
-| DESIGNATE | DNS as a Service | :x: |
-| CONGRESS | Governance Service | :x: |
-| TACKER | NFV Orchestration | :x: |
-
-### INTERESSANTES
-| MÓDULO | DESCRIÇÃO SIMPLES | API* |
-| --- | --- |:---:|
-| TROVE | Database as a Service | :heavy_check_mark: |
-| CLOUDKITTY | Rating and Billing Service | :x: |
-| ZAQAR | Messaging Service | :x: |
-| VITRAGE | Root Cause Analysis Engine | :x: |
-| WATCHER | Resource Optimization | :x: |
-| BLAZAR | Reservation Service | :x: |
-| RALLY | Benchmark Service | :x: |
-| FREEZER | Backup, Restore and Disaster Recovery Service | :x: |
-| SAHARA | Elastic Map Reduce | :heavy_check_mark: |
-| FUEL | Deployment Service | :x: |
-| KOLLA | Production-ready container and deployment | :x: |
-| MISTRAL | Workflow Service | :x: |
-| SENLIN | Clustering Service | :heavy_check_mark: |
-| SOLUM | Application Lifecycle Management Service | :x: |
+| PRIODIDADE | MÓDULO | DESCRIÇÃO SIMPLES | API* | Ports |
+| --- | --- | --- |:---:| --- |
+| 1 | NOVA | Compute | :heavy_check_mark: | 8774 |
+| 1 | NEUTRON | Networking | :heavy_check_mark: | 9696 |
+| 1 | SWIFT | Object Storage | :heavy_check_mark: | 8080 |
+| 1 | CINDER | Block Storage | :heavy_check_mark: | 8776 |
+| 1 | KEYSTONE | Identity | :heavy_check_mark: | 5000, 35357 |
+| 1 | GLANCE | Image Service | :heavy_check_mark: | 9292 |
+| 1 | HORIZON | Dashboard | :x: | N/A |
+| 1 | CEILOMETER | Telemetry | :heavy_check_mark: | 8777 |
+| 1 | HEAT | Orchestration | :heavy_check_mark: | 8004 |
+| 1 | MURANO | Application Catalog | :x: | 8082 |
+| 2 | AODH| Telemetry Alarming | :x: | |
+| 2 | GNOCCHI | Times Series Database and Resource Indexing | :x: | |
+| 2 | [MONASCA](https://github.com/raquel/openstack-notes/blob/master/Monasca.md) | Monitoring Service | :x: | |
+| 2 | MANILA | Shared Filesystem | :heavy_check_mark: | |
+| 2 | IRONIC | Bare-metal Provisioning | :heavy_check_mark: | |
+| 2 | BARBICAN | Key Management Service | :x: | |
+| 2 | MAGNUM | Container as a Service | :x: | |
+| 2 | DESIGNATE | DNS as a Service | :x: | |
+| 2 | CONGRESS | Governance Service | :x: | 1789 |
+| 2 | TACKER | NFV Orchestration | :x: | |
+| 3 | TROVE | Database as a Service | :heavy_check_mark: | 8779 |
+| 3 | CLOUDKITTY | Rating and Billing Service | :x: | |
+| 3 | ZAQAR | Messaging Service | :x: | |
+| 3 | VITRAGE | Root Cause Analysis Engine | :x: | |
+| 3 | WATCHER | Resource Optimization | :x: | |
+| 3 | BLAZAR | Reservation Service | :x: | |
+| 3 | RALLY | Benchmark Service | :x: | |
+| 3 | FREEZER | Backup, Restore and Disaster Recovery Service | :x: | |
+| 3 | SAHARA | Elastic Map Reduce | :heavy_check_mark: | |
+| 3 | FUEL | Deployment Service | :x: | |
+| 3 | KOLLA | Production-ready container and deployment | :x: | |
+| 3 | MISTRAL | Workflow Service | :x: | |
+| 3 | SENLIN | Clustering Service | :heavy_check_mark: | |
+| 3 | SOLUM | Application Lifecycle Management Service | :x: | .|
